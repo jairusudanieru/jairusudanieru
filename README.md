@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-I am <a href="https://github.com/jairusudanieru">Jairusu Danieru</a>, A Small Filipino Content Creator and a Newbie in Developing Discord Bots and Minecraft Java Plugins. Coding is my playground, and every project is a new adventure. I write code just for the pure thrill of it!
+Hello, I'm <a href="https://github.com/jairusudanieru">Jairusu Danieru</a>, a budding developer from the Philippines. I enjoy coding for the sheer pleasure it brings, whether it's coding Discord bots or Minecraft Java plugins. Every project is an exciting journey for me.
 </p>
 
 <p align="center">
