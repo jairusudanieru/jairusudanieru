@@ -1,13 +1,13 @@
 <h2 align="center">
-Hey There, I'm Jairusu Danieru!
+👋 Hello there! Welcome to my GitHub profile.
 </h2>
 
 <p align="center">
-A Small Filipino Content Creator and a Newbie in Developing Discord Bots and Minecraft Java Plugins.
+<a href=""><img src="https://avatars.githubusercontent.com/u/93384722?v=4" alt="Banner" width="256px"> </a>
 </p>
 
 <p align="center">
-<a href=""><img src="https://avatars.githubusercontent.com/u/93384722?v=4" alt="Banner" width="256px"> </a>
+I am <a href="https://github.com/jairusudanieru">Jairusu Danieru</a>, A Small Filipino Content Creator and a Newbie in Developing Discord Bots and Minecraft Java Plugins. Coding is my playground, and every project is a new adventure. I write code just for the pure thrill of it!
 </p>
 
 <p align="center">
